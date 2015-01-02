@@ -1,3 +1,3 @@
 cd /home/app/tiddly;
 npm install -g tiddlywiki;
-tiddlywiki mynewwiki --init server;
+tiddlywiki wiki_name --init server;
